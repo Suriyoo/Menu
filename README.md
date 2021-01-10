@@ -1,2 +1,2 @@
-# Menu for registering acitivities under Covid-19 
+# Menu for registering activities under Covid-19 
 small and basic
